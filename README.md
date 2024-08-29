@@ -1,2 +1,2 @@
 # College
-My college study material, including solved assignments, questions papers and handouts.
+My LaTeXed study notes for Computational Mathematics and Quantum Computing Jupyter Notebooks
